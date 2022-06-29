@@ -1,2 +1,9 @@
 INSERT INTO SUPPLIER
-VALUES ('1','', '', '', '');
+VALUES ('1','97283547', 'Desa Frozen Food', '16, Jalan Damai, Luyang Commercial Centre, 88300 Kota Kinabalu, Sabah', 'desafarm@gmail.com');
+INSERT INTO SUPPLIER
+VALUES ('2','87465798', 'Ali Wholesale Store Sdn. Bhd', 'Lot 18 Block C, Kepayan Point, Jalan Penampang Bypass, Taman Masjaya 88200 Kota Kinabalu, Sabah', 'aliabdulwholesale@yahoo.com');
+INSERT INTO SUPPLIER
+VALUES ('3','37856432', 'Chong Han Vegetables', 'Lot 19, Ground Floor, Blok D, Jalan Damai, Taman Luyang Phase 3, 88300 Kota Kinabalu, Sabah', 'chonghan@gmail.com');
+INSERT INTO SUPPLIER
+VALUES ('4','94523255', 'Sabanah Superstore Sdn. Bhd.', '19, Ground Floor, Jalan Sentosa, Kampung Air, 88000 Kota Kinabalu, Sabah', 'sabanahberhad@gmail.com');
+
