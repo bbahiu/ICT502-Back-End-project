@@ -7,3 +7,13 @@ VALUES ('3','37856432', 'Chong Han Vegetables', 'Lot 19, Ground Floor, Blok D, J
 INSERT INTO SUPPLIER
 VALUES ('4','94523255', 'Sabanah Superstore Sdn. Bhd.', '19, Ground Floor, Jalan Sentosa, Kampung Air, 88000 Kota Kinabalu, Sabah', 'sabanahberhad@gmail.com');
 
+INSERT INTO STAFF
+VALUES ('1', 'Fiza', 'Female', TO_DATE('05/05/1998', 'DD/MM/YYYY'), TO_DATE('22/06/2018', 'DD/MM/YYYY'), '2400', 'First Shift', '1');
+INSERT INTO STAFF 
+VALUES ('2', 'Hadif', 'Male', TO_DATE('24/12/1995', 'DD/MM/YYYY'), TO_DATE('01/08/2020', 'DD/MM/YYYY'), '2800', 'Third Shift', '1');
+INSERT INTO STAFF
+VALUES ('3', 'Vincent', 'Male', TO_DATE('14/02/2000', 'DD/MM/YYYY'), TO_DATE('07/10/2021', 'DD/MM/YYYY'), '1500', 'Second Shift', '1');
+INSERT INTO STAFF
+VALUES ('4', 'Alyia', 'Female', TO_DATE('31/08/1997', 'DD/MM/YYYY'), TO_DATE('18/04/2018', 'DD/MM/YYYY'), '2500', 'First Shift', '1');
+INSERT INTO STAFF
+VALUES ('5', 'Rasidah', 'Female', TO_DATE('29/05/2001', 'DD/MM/YYYY'), TO_DATE('09/03/2021', 'DD/MM/YYYY'), '1500', 'First Shift', '1');
