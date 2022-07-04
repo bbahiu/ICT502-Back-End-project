@@ -18,3 +18,17 @@ VALUES ('4', 'Alyia', 'Female', TO_DATE('31/08/1997', 'DD/MM/YYYY'), TO_DATE('18
 INSERT INTO STAFF
 VALUES ('5', 'Rasidah', 'Female', TO_DATE('29/05/2001', 'DD/MM/YYYY'), TO_DATE('09/03/2021', 'DD/MM/YYYY'), '1500', 'First Shift', '1');
 
+INSERT INTO CUSTOMER
+VALUES ('1', 'Mila', 'Kota Kinabalu', '0123748657', 'mia58@gmail.com', 'Dine In', '25', 'Vaccinated', TO_DATE('12/04/2021', 'DD/MM/YYYY'), TO_TIMESTAMP('12/04/2021:08:00:00AM', 'DD/MM/YYYY:HH:MI:SSAM'));
+INSERT INTO CUSTOMER
+VALUES ('2', 'Jenny', 'Likas', '0918672345', 'jennyhan@gmail.com', 'Take Away', (NULL), 'Vaccinated', TO_DATE('12/04/2021', 'DD/MM/YYYY'), TO_TIMESTAMP('12/04/2021:08:20:00AM', 'DD/MM/YYYY:HH:MI:SSAM'));
+INSERT INTO CUSTOMER
+VALUES ('3', 'Dora', 'Tuaran', '0197364578', 'doratheexplorer@yahoo.com', 'Take Away', (NULL), 'Vaccinated', TO_DATE('12/04/2021', 'DD/MM/YYYY'), TO_TIMESTAMP('12/04/2021:10:00:00AM', 'DD/MM/YYYY:HH:MI:SSAM'));
+INSERT INTO CUSTOMER
+VALUES ('4', 'Johnny', 'Kota Kinabalu', '0142388756', 'johnnysuh@gmail.com', 'Dine In', '50', 'Vaccinated', TO_DATE('12/04/2021', 'DD/MM/YYYY'), TO_TIMESTAMP('12/04/2021:09:30:00AM', 'DD/MM/YYYY:HH:MI:SSAM'));
+INSERT INTO CUSTOMER
+VALUES ('5', 'Lucas', 'Sepanggar', '0928465738', 'lucaswong@yahoo.com', 'Dine In', '10', 'Vaccinated', TO_DATE('12/04/2021', 'DD/MM/YYYY'), TO_TIMESTAMP('12/04/2021:09:45:54AM', 'DD/MM/YYYY:HH:MI:SSAM'));
+INSERT INTO CUSTOMER
+VALUES ('6', 'Lisa', 'Kingfisher', '0484759423', 'lalisa@microsoft.com', 'Take Away', (NULL), 'Vaccinated', TO_DATE('12/04/2021', 'DD/MM/YYYY'), TO_TIMESTAMP('12/04/2021:12:00:58PM', 'DD/MM/YYYY:HH:MI:SSPM'));
+INSERT INTO CUSTOMER
+VALUES ('7', 'Jamal', 'Tuaran', '0947586398', 'muhdjamal@apple.com', 'Dine In', '30', 'Vaccinated', TO_DATE('12/04/2021', 'DD/MM/YYYY'), TO_TIMESTAMP('12/04/2021:11:54:43AM', 'DD/MM/YYYY:HH:MI:SSAM'));
